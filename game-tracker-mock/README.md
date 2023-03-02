@@ -133,22 +133,6 @@ build out any helper methods if needed.
   - To average scores, add all result scores together for the player and divide by the total number
     of results for the player.
 
-### Bonus: For any invalid inputs raise an `Exception`.
-
-Uncomment the following lines in the test files:
-
-#### player_tests.py
-
-- lines 0 - 0
-
-#### game_tests.py
-
-- lines 34 - 38
-
-#### result_tests.py
-
-- lines 0 - 0
-
 #### Bonus: Aggregate and Association Method
 
 - `Player classmethod highest_scored(game)`
